@@ -1,0 +1,6 @@
+bulk-client>=0.1.0
+python-dotenv>=1.0.1
+requests>=2.32.3
+PyYAML>=6.0.2
+pandas>=2.2.2
+numpy>=1.26.4
